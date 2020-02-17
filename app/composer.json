@@ -1,0 +1,12 @@
+{
+    "name": "vidavi/app",
+    "authors": [
+        {
+            "name": "Michal Wrona",
+            "email": "michalwrona.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
